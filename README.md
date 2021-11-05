@@ -1,8 +1,8 @@
-## Arif P. Sulistiono/ @arifpras
-
 <a href="https://avatars.githubusercontent.com/u/65521327?v=4">
-  <img align="center" src = "https://avatars.githubusercontent.com/u/65521327?v=4" />
+  <img align="center" src = "https://avatars.githubusercontent.com/u/65521327?v=4" width="250" height="250"/>
 </a>
+
+## Arif P. Sulistiono/ @arifpras
 
 <h3 align="left">A little bit more about me:</h3>
 
@@ -17,6 +17,12 @@
 - :bar_chart: Visualising data
 - :phone: Exploring anime
 - :incoming_envelope: Discussing manga
+
+<h3 align="left">Courses:</h3>
+
+- Indonesia's Ministry of Finance - Data Analytic Community • Kelas Data R
+  - Introduction: <a href="https://arifpras.github.io/KelasData/">Slide</a>
+  - Data Wrangling and Visualisation: <a href="https://arifpras.github.io/WranglingViz/">Practical sessions</a>
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
