@@ -6,17 +6,17 @@
 
 <h3 align="left">A little bit more about me:</h3>
 
-- :sailboat: A civil servant • <a href="https://www.kemenkeu.go.id/">Ministry of Finance, Republic of Indonesia</a>
-- :rocket: A scholarship awardee • <a href="https://www.lpdp.kemenkeu.go.id/in/home">Indonesia Endowment Fund for Education ("Lembaga Pengelola Dana Pendidikan")</a>
-- :mountain_cableway: A PhD student • <a href="https://www.nottingham.ac.uk/economics/people/arif.sulistiono">School of Economics, University of Nottingham</a>
+- A civil servant • <a href="https://www.kemenkeu.go.id/">Ministry of Finance, Republic of Indonesia</a>
+- A scholarship awardee • <a href="https://www.lpdp.kemenkeu.go.id/in/home">Indonesia Endowment Fund for Education ("Lembaga Pengelola Dana Pendidikan")</a>
+- A PhD student • <a href="https://www.nottingham.ac.uk/economics/people/arif.sulistiono">School of Economics, University of Nottingham</a>
   + ...with research interests in Indonesia's government bonds market and their bondholders' behaviour.
 
 <h4 align="left">Among others, also passionate in:</h4>
 
-- :pager: Googling while coding
-- :bar_chart: Visualising data
-- :phone: Exploring anime
-- :incoming_envelope: Discussing manga
+- Googling while coding
+- Visualising data
+- Exploring anime
+- Discussing manga
 
 <h3 align="left">Courses:</h3>
 
