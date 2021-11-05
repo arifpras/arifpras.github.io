@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<a href="https://avatars.githubusercontent.com/u/65521327?v=4">
+  <img align="center" src = "https://avatars.githubusercontent.com/u/65521327?v=4" width="250" height="250"/>
+</a>
 
-You can use the [editor on GitHub](https://github.com/arifpras/arifpras.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Arif P. Sulistiono/ @arifpras
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3 align="left">A little bit more about me:</h3>
 
-### Markdown
+- :sailboat: A civil servant • <a href="https://www.kemenkeu.go.id/">Ministry of Finance, Republic of Indonesia</a>
+- :rocket: A scholarship awardee • <a href="https://www.lpdp.kemenkeu.go.id/in/home">Indonesia Endowment Fund for Education ("Lembaga Pengelola Dana Pendidikan")</a>
+- :mountain_cableway: A PhD student • <a href="https://www.nottingham.ac.uk/economics/people/arif.sulistiono">School of Economics, University of Nottingham</a>
+  + ...with research interests in Indonesia's government bonds market and their bondholders' behaviour.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h4 align="left">Among others, also passionate in:</h4>
 
-```markdown
-Syntax highlighted code block
+- :pager: Googling while coding
+- :bar_chart: Visualising data
+- :phone: Exploring anime
+- :incoming_envelope: Discussing manga
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Courses:</h3>
 
-- Bulleted
-- List
+- Indonesia's Ministry of Finance - Data Analytic Community • Kelas Data R
+  - Introduction: <a href="https://arifpras.github.io/KelasData/">Slide</a>
+  - Data Wrangling and Visualisation: <a href="https://arifpras.github.io/WranglingViz/">Practical sessions</a>
 
-1. Numbered
-2. List
+<hr style="width:50%;text-align:left;margin-left:0">
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifpras/arifpras.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://github.com/arifpras/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifpras&show_icons=true&theme=gotham&count_private=true&hide_border=true)](https://github.com/arifpras/github-readme-stats" />
+</a>
+<a href="https://github.com/arifpras/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifpras&theme=gotham&layout=compact&hide_border=true)](https://github.com/arifpras/github-readme-stats" />
+</a>
